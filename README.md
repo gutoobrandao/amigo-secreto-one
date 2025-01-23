@@ -1,6 +1,6 @@
 # Amigo Secreto 🎁
 
-![Demonstração do Projeto](https://github.com/gutoobrandao/amigo-secreto-one/blob/main/assets/video-funcionamento.webm)
+![Demonstração do Projeto](./assets/video-funcionamento.gif)
 
 ## 📖 Sobre
 
